@@ -14,7 +14,8 @@ Yet you can use this board for many different applications.
 
 
 # wirining
-            I/O
+
+_            I/O 
      |                    |+5V
      |                    |GND
  I2C |                    |Relay A  RC2
