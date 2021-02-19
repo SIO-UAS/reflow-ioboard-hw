@@ -15,18 +15,8 @@ Yet you can use this board for many different applications.
 
 # wirining
 
-/*           I/O 
-     |                    |+5V
-     |                    |GND
- I2C |                    |Relay A  RC2
-     |                    |Relay A
-     |    ISCP            |Rleay B  RC0
-     |          PT1000    |Relay B
-     |                    |Relay C  RC1
-     |                    |Relay C
-    */ 
-I hope this and the labeling on the board are clear enough
-     
+I hope the labeling on the board are clear enough
+
 
 # software
 To this day the software hasn't been implemented. If it works I will put it in a different repository.
