@@ -15,7 +15,7 @@ Yet you can use this board for many different applications.
 
 # wirining
 
-_            I/O 
+/*           I/O 
      |                    |+5V
      |                    |GND
  I2C |                    |Relay A  RC2
@@ -24,7 +24,7 @@ _            I/O
      |          PT1000    |Relay B
      |                    |Relay C  RC1
      |                    |Relay C
-     
+    */ 
 I hope this and the labeling on the board are clear enough
      
 
