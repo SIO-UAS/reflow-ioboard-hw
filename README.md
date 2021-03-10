@@ -13,7 +13,7 @@ Eventually you have to recalulate the resitors for the amplifier.
 Yet you can use this board for many different applications.
 
 
-# wirining
+# wireing
 
 I hope the labeling on the board are clear enough
 
