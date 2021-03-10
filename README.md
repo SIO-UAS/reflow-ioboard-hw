@@ -15,7 +15,7 @@ Yet you can use this board for many different applications.
 
 # wireing
 
-I hope the labeling on the board are clear enough
+I hope the labeles on the board are clear enough
 
 
 # software
