@@ -19,7 +19,7 @@ I hope the labeles on the board are clear enough
 
 
 # software
-To this day the software hasn't been implemented. If it works I will put it in a different repository.
+A first version has been made. To bee seen in an other repository. 
 
 # assembling
 To assemble this board reflow soldering is adviced. (How Ironic)
